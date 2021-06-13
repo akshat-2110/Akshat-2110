@@ -5,7 +5,7 @@
 
 </p>
 
-- 💬 Ask me about **Python**, **Lab Automation(Python IVI Drivers)**, **Pacman**, **MSYS2**
+- 💬 Ask me about **Python**, **Lab Automation/Drivers**, **Pacman**, **MSYS2**
 
 - 📫 How to reach me **akshatsinghal2110@gmail.com**
 
